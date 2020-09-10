@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSMSUserConsentAPI</string>
+    <string name="enter_your_verification_code">Enter your verification code</string>
+</resources>
